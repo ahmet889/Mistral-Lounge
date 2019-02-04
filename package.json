@@ -1,0 +1,15 @@
+{
+  "name": "mistralvip",
+  "version": "0.0.2",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Ahmet Dinçer",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "bot.js"
+  },
+  "description": ""
+}
