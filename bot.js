@@ -47,4 +47,4 @@ client.on('message', msg => {
   }
 });
 
-client.login('NTQxMzExOTI5MzkwNDY1MDM4.DzijmQ.cOKkc4o7-LUOlzTbaiA-frGW_s8');
+client.login('mistralonline');
