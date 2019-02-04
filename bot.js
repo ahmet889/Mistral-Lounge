@@ -47,4 +47,4 @@ client.on('message', msg => {
   }
 });
 
-client.login('mistralonline');
+client.login(process.env.BOT_TOKEN);
